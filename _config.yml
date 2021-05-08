@@ -30,17 +30,17 @@ projects:
 
 social_media:
   # behance: your_username
-  dribbble: TOPDAWWG
+  # dribbble: TOPDAWWG
   facebook: godwill.monthe
   # hackerrank: your_username
-  # instagram: godwill.monthe
+  instagram: godwill.monthe
   # keybase: your_username
-  # linkedin: godwill-monthe-9b129a192
+  linkedin: godwill-monthe-9b129a192
   # mastodon: your_username
   # medium: your_username
-  # stackoverflow: 14058340
-  # telegram: @TOPDAWWG
-  # twitter: _godwillmonthe_
+  stackoverflow: 14058340
+  telegram: @TOPDAWWG
+  twitter: _godwillmonthe_
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
@@ -53,6 +53,14 @@ topics:
 
   - name: Web design
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Firebase
+    web_url: https://github.com/topics/firebase
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png
+
+  - name: Android
+    web_url: https://github.com/topics/android
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png
+
+  - name: Flutter
+    web_url: https://github.com/topics/flutter
+    image_url: https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png
